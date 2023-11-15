@@ -55,7 +55,7 @@
                <TextView
                    android:layout_width="wrap_content"
                    android:layout_height="wrap_content"
-                   android:text="1"
+                   android:text="Order 01"
                    android:textStyle="bold"
                    android:textAlignment="center"/>
            </LinearLayout>
@@ -85,7 +85,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="2"
+                    android:text="Order 02"
                     android:textStyle="bold"
                     android:textAlignment="center"/>
             </LinearLayout>
@@ -115,7 +115,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="3"
+                    android:text="Order 03"
                     android:textStyle="bold"
                     android:textAlignment="center"/>
             </LinearLayout>
@@ -145,7 +145,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="4"
+                    android:text="Order 04"
                     android:textStyle="bold"
                     android:textAlignment="center"/>
             </LinearLayout>
@@ -177,7 +177,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="5"
+                    android:text="Order 05"
                     android:textStyle="bold"
                     android:textAlignment="center"/>
             </LinearLayout>
@@ -207,7 +207,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="6"
+                    android:text="Order 06"
                     android:textStyle="bold"
                     android:textAlignment="center"/>
             </LinearLayout>
