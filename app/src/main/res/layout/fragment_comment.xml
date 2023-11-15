@@ -14,4 +14,27 @@
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="50dp"/>
 
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <EditText
+            android:id="@+id/editTextText"
+            android:layout_width="311dp"
+            android:layout_height="147dp"
+            android:ems="10"
+            android:inputType="text"
+            android:text="Share Your Comment Here"
+            tools:layout_editor_absoluteX="50dp"
+            tools:layout_editor_absoluteY="215dp" />
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="130dp"
+            android:layout_height="63dp"
+            android:text="Submit"
+            tools:layout_editor_absoluteX="140dp"
+            tools:layout_editor_absoluteY="410dp" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
 </FrameLayout>
